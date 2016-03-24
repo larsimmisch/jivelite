@@ -2,6 +2,10 @@
 # LuaSocket makefile configuration
 #
 
+PREFIX=/usr
+PLATFORM=linux
+INSTALL_TOP=/usr/local
+
 #------
 # Output file names
 #
